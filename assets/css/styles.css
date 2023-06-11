@@ -331,8 +331,8 @@ footer{
     
     .hero img{
         border-radius: 50%;
-        height: 45%;
-        width: 45%;
+        height: 50%;
+        width: 50%;
     }
     
     .bio{
@@ -368,6 +368,16 @@ footer{
 
     .contact-container{
         max-width: 22.5rem;
+    }
+    
+    .socicon{
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+
+    .scroll-icon{
+        height: 2rem;
+        width: 2rem;
     }
 }
 
